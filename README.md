@@ -1,2 +1,2 @@
 # Banglore_Home_Price
-Banglore Home Price Prediction using Linear Regression Model
+End to End Banglore Home Price Prediction using Linear Regression Model, Data visualization techniques.
