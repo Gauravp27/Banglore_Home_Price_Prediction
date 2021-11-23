@@ -2,7 +2,7 @@
 End to End Banglore Home Price Prediction using Linear Regression Model, Data visualization techniques.
 
 Package Used:
-Numpy
-Pandas
-Matplotlib
+Numpy,
+Pandas,
+Matplotlib,
 sklearn
